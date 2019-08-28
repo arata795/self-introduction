@@ -1,0 +1,91 @@
+
+
+hr {
+    color: #444;
+    border: 1px solid ;
+}
+
+
+/*----- header-----*/
+
+
+header{
+    background-color:#d49e4b;
+    color:#fff;
+    height:130px;
+}
+
+.header-logo{
+    text-align:center;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    /* 問題１２ */
+}
+
+
+/*----- body -----*/
+
+body {
+    color:white;
+    text-align:center;
+    margin: 0;
+    /* 問題１４ */
+    background-color:rgb(205, 157, 209);
+    opacity:0.8;
+}
+
+.contents1,
+.contents2,
+.contents3 {
+    text-align: center;
+}
+
+div .aboutme ul {
+    list-style: none;
+}
+
+.kigou {
+    /* 問題１５ */
+    color:rgb(0, 132, 255);
+    
+}
+
+.favorite-title {
+    font-weight: bold;
+}
+
+.favorite-list{
+    display:none;
+}
+
+/* .favorite-food-text,
+.favorite-artist-text,
+.favorite-goods-text {
+    display: none;
+}
+ */
+.image{
+    opacity:0.8;
+}
+
+.image:hover{
+    opacity:1;
+}
+
+/*----- footer -----*/
+footer{
+    background-color:#d3a5d3;
+    color:white;
+    height: 120px;
+    padding: 40px;
+}
+.footer-logo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-align: center;
+    /* 問題１３ */
+}

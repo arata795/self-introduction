@@ -1,0 +1,10 @@
+$(function(){
+  $('.favorite-title').hover(
+    function(){
+      $('.favorite-list').slideDown();
+    },
+    function(){
+      $('.favorite-list').slideUp();
+    }
+  ); 
+});

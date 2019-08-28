@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- 問題１ -->
+    <title>Sample</title>
+
+    <style>
+        body {
+            margin: 0;
+            /* 問題１４ */
+        }
+
+        hr {
+            color: #444;
+            border: 1px solid;
+        }
+
+        .header-logo {
+            font-size: 30px;
+            font-weight: bold;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-left: 50px;
+            /* 問題１２ */
+        }
+
+        .contents1,
+        .contents2,
+        .contents3 {
+            text-align: center;
+        }
+
+        div .aboutme ul {
+            list-style: none;
+        }
+
+        .kigou {
+            /* 問題１５ */
+            
+        }
+
+        .favorite {
+            font-weight: bold;
+        }
+
+        .footer-logo {
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-left: 10px;
+            text-align: center;
+            /* 問題１３ */
+        }
+    </style>
+
+</head>
+
+<body>
+    <!-- 問題８ -->
+    <!-- ここにヘッダーを作成 -->
+
+    <!-- 問題２ -->
+    <div class="contents1">
+       
+        <!-- ここに見出し -->
+        
+        <!-- ここに段落 -->
+
+        <hr>
+
+        <div class="aboutme">
+            <!-- 問題７ -->
+            <!-- ここにリストを作成 -->
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="contents2">
+    	<!-- 問題１０ -->
+        <h2>♪Favorite Music♪</h2>
+        <div>
+            <!-- 問題１１ -->
+            <!-- Favoriteの内容を3つ作成しよう -->
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="contents3">
+		<!-- 問題１０ -->
+        <h2>☆This is my smoothie☆</h2>
+        <div>
+            <!-- 問題３ -->
+            <!-- ここにリンクを作成 -->
+            <!-- 問題４ ※上記リンクを別タブで開くように指定-->
+        </div>
+
+        <div>
+            <!-- 問題５ -->
+            <!-- ここに画像を表示 -->
+            <!-- 問題６　上記画像をリンクにしてみよう -->
+        </div>
+    </div>
+
+
+    <!-- 問題９ -->
+    <!-- ここにフッターを作成 -->
+</body>
+
+</html>
